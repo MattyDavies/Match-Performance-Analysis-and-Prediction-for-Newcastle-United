@@ -1,0 +1,2 @@
+# Match-Performance-Analysis-and-Prediction-for-Newcastle-United
+This project analyzes Newcastle United's match performance using historical data to identify key metrics like possession, shots, and xG. A predictive model forecasts match outcomes (win/loss/draw), with an interactive dashboard to visualize team trends and predictions. It demonstrates advanced data analysis and sports analytics skills.
